@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="e92fade0-288b-451e-8c1a-e863e8f59526" name="ms-eventdriven" url="jdbc:postgresql://localhost/5432" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>
